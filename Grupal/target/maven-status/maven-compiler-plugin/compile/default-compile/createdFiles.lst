@@ -1,0 +1,5 @@
+com\mycompany\grupal\PrimaryController.class
+module-info.class
+com\mycompany\grupal\App.class
+com\mycompany\grupal\SecondaryController.class
+modelos\Alumno.class
